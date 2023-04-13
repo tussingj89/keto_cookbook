@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Keto_cookbook.props" />
+</Project>

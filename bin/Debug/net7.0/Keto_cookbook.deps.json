@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Keto_cookbook/1.0.0": {
+        "runtime": {
+          "Keto_cookbook.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Keto_cookbook/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
