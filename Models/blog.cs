@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace RazorPagesblog.Models;
+namespace RazorPagesBlog.Models;
 
-public class blog
+public class Blog
 {
     public int Id { get; set; }
 

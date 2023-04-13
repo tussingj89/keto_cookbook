@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace RazorPagesrecipes.Models;
+namespace RazorPagesRecipes.Models;
 
-public class recipes
+public class Recipes
 {
     public int Id { get; set; }
 
@@ -14,4 +14,5 @@ public class recipes
 
     [Range(0.0, 5.0)]
     public decimal rating { get; set;}
+    
 }
